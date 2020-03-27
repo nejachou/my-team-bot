@@ -15,9 +15,9 @@ $ npm install
 create an .env file and fill the follow information
 
 ```shell
-$ CHANNEL_SECRET=<YOUR_CHANNEL_SECRET>
-$ CHANNEL_ACCESS_TOKEN=<YOUR_CHANNEL_ACCESS_TOKEN>
-$ PORT=<if you wanna use other domains>
+CHANNEL_SECRET=<YOUR_CHANNEL_SECRET>
+CHANNEL_ACCESS_TOKEN=<YOUR_CHANNEL_ACCESS_TOKEN>
+PORT=<if you wanna use other domains>
 ```
 
 ### Run
